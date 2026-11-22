@@ -7,7 +7,7 @@ namespace FeriDockerCI.Pages
 	{
 		public void OnGet()
 		{
-
+         WelcomeMessage = "Welcome to RazvojInGradnja!";
 		}
 	}
 }
