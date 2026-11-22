@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="FeriDockerCI.Tests/**/*.cs" />
+  </ItemGroup>
+
 </Project>
